@@ -3,6 +3,7 @@
 		"short_name": "ODK",
 		"version": "1.4.12",
 		"description": "Open Data Kit (ODK) is an open-source suite of tools that helps organizations author, field, and manage mobile data collection solutions. Our goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale.",
+        "short_description": "Mobile data collection solution",
 		"catalogue_url": "http://bibbox.org/software-shortlist/-/asset_publisher/NpKk4COV3bZZ/content/open-data-kit-odk-?_101_INSTANCE_NpKk4COV3bZZ_redirect=%2Fsoftware-shortlist",
 		"application_url": "https://opendatakit.org",
 		"tags": ["Data Management", "Data Integration", "Data Collection"]
